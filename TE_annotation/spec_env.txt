@@ -1,0 +1,25 @@
+# Environment 1 - including all annotation tools
+conda create -y --name transposon_annotation_tools_env python=2.7
+conda activate transposon_annotation_tools_env
+conda install -y mamba
+#conda install -y -c bioconda repeatmodeler repeatmasker # Recommended not too install via conda
+mamba install -y -c bioconda genometools-genometools # for some users: mamba install -y -c bioconda -c conda-forge genometools-genometools
+mamba install -y -c derkevinriehl transposon_annotation_reasonate
+mamba install -y -c derkevinriehl transposon_annotation_tools_proteinncbicdd1000
+conda install -y -c derkevinriehl transposon_annotation_tools_transposonpsicli
+mamba install -y -c derkevinriehl transposon_annotation_tools_mitetracker
+mamba install -y -c derkevinriehl transposon_annotation_tools_sinescan=1.1.2
+mamba install -y -c derkevinriehl transposon_annotation_tools_helitronscanner
+mamba install -y -c derkevinriehl transposon_annotation_tools_mitefinderii
+mamba install -y -c derkevinriehl transposon_annotation_tools_mustv2
+mamba install -y -c derkevinriehl transposon_annotation_tools_sinefinder
+mamba install -y -c anaconda biopython
+conda deactivate
+# Environment 2 - including CD-Hit and Transposon Classifier RFSB
+conda create -y --name transposon_annotation_reasonaTE
+conda activate transposon_annotation_reasonaTE
+conda install -y mamba
+mamba install -y -c anaconda biopython
+mamba install -y -c bioconda cd-hit blast seqkit
+mamba install -y -c derkevinriehl transposon_annotation_reasonate transposon_classifier_rfsb
+conda deactivate

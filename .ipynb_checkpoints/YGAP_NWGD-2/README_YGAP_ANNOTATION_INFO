@@ -1,0 +1,30 @@
+What are the columns in the annotation file?
+The columns are:
+Column 1: Gene name.
+Column 2: Strand.
+Column 3: Lowest coordinate of the gene.
+Column 4: Highest coordinate of the gene.
+Column 5: YGOB browser status (all ON).
+Column 6: Chromosome (scaffold) number.
+Column 7: Gene short name.
+Column 8: Gene coordinates (including introns).
+Column 9: Name of orthologous Ancestral gene (if present).
+Column 10: Name of homologous S. cerevisiae gene.
+Column 11: Gene type.
+Column 12: YGOB pillar number.
+Column 13: Annotation tag (Cor / Fra / Man / NNN) â€“ see below.
+Column 14: Annotation route (simple / multi / GETORF / DOGS) â€“ see below.
+
+Annotation tags:
+Cor means that the gene underwent successful automatic frameshift correction, resulting in a translatable sequence.
+Fra means that the gene contains a probable uncorrected frameshift error. This could either be because YGAP was unable to correct the error, or because you did not select the frameshift correction option.
+Man™ means that the gene has been flagged for manual attention. These are either untranslatable, or they are suspicious because of their length or because they overlap other genes.
+NNN means that the coding region of the gene begins or ends in a run of NNN nucleotides (i.e. in a gap between two contigs in a scaffold).
+
+Annotation routes:
+Simple means that the gene was easily assigned to a YGOB pillar by YGAP.
+Multi means that the gene is a member of a multigene family and its pillar assignment may be unreliable.
+GETORF means that the gene was annotated only because it contains a large ORF.
+DOGS means that the gene was annotated by the SearchDOGS step.
+
+tRNA predictions from:  http://lowelab.ucsc.edu/tRNAscan-SE/index.html

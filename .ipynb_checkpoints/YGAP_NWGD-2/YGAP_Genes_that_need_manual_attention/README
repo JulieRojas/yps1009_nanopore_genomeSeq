@@ -1,0 +1,11 @@
+Which genes need manual attention?
+YGAP creates different sublists of genes that have been annotated automatically but need some manual attention.
+
+Genes with an uncorrected frameshift: These genes, tagged as 'Fra' in the annotation file, have been identified as having a frameshift but could not be corrected either because the correction option was deselected or because the pipeline had insufficient data to fix it.
+
+Genes with an untranslatable sequence: These genes, tagged as 'Man' in the annotation file, cannot be translated correctly, e.g. because they contain multiple stop codons.
+
+Genes that are translatable but are suspicious because of their length or an overlap: These genes, also tagged as 'Man' in the annotation file, can be translated but need attention either because (1) they are unexpectedly short, by comparison to the homologs in their pillar, or (2) they overlap with another gene. The most probable cause of this situation is an erroneous start codon prediction, either in the gene itself or in a neighboring gene.
+
+Genes that begin or end at an NNN sequence: These genes, tagged as 'NNN' in the annotation file, cannot be translated properly because they either start or stop in an undefined region (a run of N nucleotides due to a gap between contigs). Nevertheless, the rest of the gene appears to be OK.
+

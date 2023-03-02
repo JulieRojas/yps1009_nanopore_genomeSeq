@@ -1,0 +1,24 @@
+Jan 23rd 2023
+Your files have been succesfully uploaded and will be run as soon as possible. Please note your species shortname is:
+
+yps1   (YGAP only takes a 4 character name for some reason) This is the YPS1009 assembly by John Wolters
+
+and project code is :
+
+CWn6rGWEONo2023KBFXTFWsfG01FHsTNz7ZJX23Q3Qa8apOYH16KbwhmnoFaM48Pd9GZDoH5r03B2Q
+
+Please use it if you wish to check your work and change running options or upload new files.
+
+Parameters
+
+Your project has been executed with the following options:
+Check that reads support Scaffold structure: OFF
+Identify contigs that are not contained in the current scaffold structure: OFF
+Annotate genome: ON
+Non Whole Genome Duplication (WGD) species
+Generate a mini YGOB genome browser: ON
+Frameshift correction method: No correction
+Order scaffolds by size: YES
+
+
+
