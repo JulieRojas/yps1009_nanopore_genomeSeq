@@ -1,0 +1,16 @@
+seq14	transposonPSI	protein/domain	441138	443030	.	+	.	description=protein(TY1_Copia)
+seq14	transposonPSI	protein/domain	439507	440700	.	+	.	description=protein(TY1_Copia)
+seq14	transposonPSI	protein/domain	439624	440145	.	+	.	description=protein(gypsy)
+seq14	transposonPSI	protein/domain	439097	439414	.	+	.	description=protein(TY1_Copia)
+seq6	transposonPSI	protein/domain	1304136	1306046	.	-	.	description=protein(TY1_Copia)
+seq6	transposonPSI	protein/domain	1306281	1308002	.	-	.	description=protein(TY1_Copia)
+seq6	transposonPSI	protein/domain	1306989	1307423	.	-	.	description=protein(gypsy)
+seq14	NCBI_CDD_Selection	protein	439909	440064	.	+	.	description=protein(PHA02517), transposase, PHA02517
+seq14	NCBI_CDD_Selection	protein	442590	443000	.	+	.	description=protein(cd09272), endonuclease,RH,RT, RNase_HI_RT_Ty1
+seq14	NCBI_CDD_Selection	protein	441612	442193	.	+	.	description=protein(pfam07727), RT, RVT_2
+seq14	NCBI_CDD_Selection	protein	439708	440064	.	+	.	description=protein(pfam00665), endonuclease,INT, rve
+seq14	NCBI_CDD_Selection	protein	442662	442991	.	+	.	description=protein(cd06222), rpa,endonuclease,RH, RNase_H_like
+seq6	NCBI_CDD_Selection	protein	1306983	1307261	.	-	.	description=protein(PHA02517), transposase, PHA02517
+seq6	NCBI_CDD_Selection	protein	1304139	1304513	.	-	.	description=protein(cd09272), endonuclease,RH,RT, RNase_HI_RT_Ty1
+seq6	NCBI_CDD_Selection	protein	1304835	1305491	.	-	.	description=protein(pfam07727), RT, RVT_2
+seq6	NCBI_CDD_Selection	protein	1306983	1307339	.	-	.	description=protein(pfam00665), endonuclease,INT, rve

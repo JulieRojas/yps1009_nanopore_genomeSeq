@@ -1,0 +1,33 @@
+SeqID	SeqName	all	1	1/1	1/1/1	1/1/2	1/1/3	1/2	1/2/1	1/2/2	2	2/1	2/1/1	2/1/2	2/1/3	2/1/4	2/1/5	2/1/6	2/2	2/3
+all	all	255	57	57	20	37	0	0	0	0	198	196	42	26	15	12	99	2	0	2	
+seq1	chrII-2_tig00004927 reverse_complement	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+seq2	chrIII-2_tig00004935	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	
+seq3	chrIII_tig00004936	7	2	2	1	1	0	0	0	0	5	5	0	2	0	0	3	0	0	0	
+seq4	chrII_tig00000010 reverse_complement	13	4	4	1	3	0	0	0	0	9	9	1	0	0	1	7	0	0	0	
+seq5	chrI_tig00000033	9	2	2	2	0	0	0	0	0	7	7	0	3	3	0	1	0	0	0	
+seq6	chrIV_tig00000001	26	5	5	2	3	0	0	0	0	21	21	4	2	0	1	14	0	0	0	
+seq7	chrIX_tig00000023	7	1	1	1	0	0	0	0	0	6	4	0	0	0	0	4	0	0	2	
+seq8	chrMito_tig00000037 reverse_complement	22	0	0	0	0	0	0	0	0	22	22	11	0	1	4	6	0	0	0	
+seq9	chrVI-2_tig00004937 reverse_complement	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+seq10	chrMANY_tig00000038 reverse_complement	6	3	3	1	2	0	0	0	0	3	3	1	1	0	0	1	0	0	0	
+seq11	chrVIII_tig00000017 reverse_complement	16	8	8	2	6	0	0	0	0	8	8	3	2	1	0	2	0	0	0	
+seq12	chrVII_tig00004928 reverse_complement	21	5	5	0	5	0	0	0	0	16	16	3	3	0	3	7	0	0	0	
+seq13	chrVI_tig00004938 reverse_complement	9	2	2	1	1	0	0	0	0	7	7	1	1	2	0	3	0	0	0	
+seq14	chrV_tig00000015	10	4	4	1	3	0	0	0	0	6	6	1	1	2	0	2	0	0	0	
+seq15	chrX-2_tig00001099 reverse_complement	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	
+seq16	chrXI-2_tig00004931 reverse_complement	2	0	0	0	0	0	0	0	0	2	2	1	0	0	0	1	0	0	0	
+seq17	chrXII-2_tig00004934	7	3	3	2	1	0	0	0	0	4	4	0	0	0	0	4	0	0	0	
+seq18	chrXII-3_tig00004933	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+seq19	chrXIII-2_tig00000029 reverse_complement	7	1	1	0	1	0	0	0	0	6	6	0	1	1	0	4	0	0	0	
+seq20	chrXIII_tig00000018	7	2	2	0	2	0	0	0	0	5	5	2	1	0	0	2	0	0	0	
+seq21	chrXII_tig00000020	9	1	1	0	1	0	0	0	0	8	8	0	0	0	2	6	0	0	0	
+seq22	chrXI_tig00004932 reverse_complement	15	2	2	1	1	0	0	0	0	13	13	4	2	1	0	4	2	0	0	
+seq23	chrXIV-2_tig00004930 reverse_complement	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+seq24	chrXIV_tig00004929 reverse_complement	8	1	1	0	1	0	0	0	0	7	7	1	1	0	0	5	0	0	0	
+seq25	chrX_tig00001098 reverse_complement	17	4	4	1	3	0	0	0	0	13	13	3	2	2	0	6	0	0	0	
+seq26	chrXV-2_tig00000035	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	
+seq27	chrXV-3_tig00000066	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+seq28	chrXV-4_tig00001046	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+seq29	chrXVI-2_tig00000040 reverse_complement	2	1	1	0	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	
+seq30	chrXVI_tig00000013	14	2	2	1	1	0	0	0	0	12	12	2	2	0	0	8	0	0	0	
+seq31	chrXV_tig00000007 reverse_complement	17	3	3	3	0	0	0	0	0	14	14	4	2	0	1	7	0	0	0	
