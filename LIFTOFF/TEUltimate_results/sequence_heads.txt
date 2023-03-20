@@ -1,0 +1,31 @@
+>seq1	>chrII-2_tig00004927 reverse_complement
+>seq2	>chrIII-2_tig00004935
+>seq3	>chrIII_tig00004936
+>seq4	>chrII_tig00000010 reverse_complement
+>seq5	>chrI_tig00000033
+>seq6	>chrIV_tig00000001
+>seq7	>chrIX_tig00000023
+>seq8	>chrMito_tig00000037 reverse_complement
+>seq9	>chrVI-2_tig00004937 reverse_complement
+>seq10	>chrMANY_tig00000038 reverse_complement
+>seq11	>chrVIII_tig00000017 reverse_complement
+>seq12	>chrVII_tig00004928 reverse_complement
+>seq13	>chrVI_tig00004938 reverse_complement
+>seq14	>chrV_tig00000015
+>seq15	>chrX-2_tig00001099 reverse_complement
+>seq16	>chrXI-2_tig00004931 reverse_complement
+>seq17	>chrXII-2_tig00004934
+>seq18	>chrXII-3_tig00004933
+>seq19	>chrXIII-2_tig00000029 reverse_complement
+>seq20	>chrXIII_tig00000018
+>seq21	>chrXII_tig00000020
+>seq22	>chrXI_tig00004932 reverse_complement
+>seq23	>chrXIV-2_tig00004930 reverse_complement
+>seq24	>chrXIV_tig00004929 reverse_complement
+>seq25	>chrX_tig00001098 reverse_complement
+>seq26	>chrXV-2_tig00000035
+>seq27	>chrXV-3_tig00000066
+>seq28	>chrXV-4_tig00001046
+>seq29	>chrXVI-2_tig00000040 reverse_complement
+>seq30	>chrXVI_tig00000013
+>seq31	>chrXV_tig00000007 reverse_complement

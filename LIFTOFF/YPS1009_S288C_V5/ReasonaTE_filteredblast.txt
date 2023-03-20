@@ -1,0 +1,21 @@
+Seqid	chromosome	Start	End	Score	Strand	class	transposon	contig	Number TE genes
+1	1	1411	7774	89.5	+	"1/1/1(Copia,LTR,Retrotransposon)"	41 	chrI_tig00000033	2
+2	1	177545	183500	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	43 	chrI_tig00000033	2
+3	2	185087	191046	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	39 	chrII_tig00000010 reverse_complement	2
+4	3	136492	151821	96.21	+	"1/1/1(Copia,LTR,Retrotransposon)"	35 	chrIII_tig00004936	2
+5	4	1297667	1303627	100.0	+	"1/1/2(Gypsy,LTR,Retrotransposon)"	49 	chrIV_tig00000001	2
+6	4	1303709	1309617		+	"1/1/1(Copia,LTR,Retrotransposon)"	267	chrIV_tig00000001	2
+7	4	383440	384902	97.48	+	"1/1/1(Copia,LTR,Retrotransposon)"	45 	chrIV_tig00000001	2
+8	4	949136	950839	88.44	+	"1/1/2(Gypsy,LTR,Retrotransposon)"	47 	chrIV_tig00000001	1
+9	5	437439	443396		+	"1/1/1(Copia,LTR,Retrotransposon)"	236	chrV_tig00000015	2
+10	5	543496	548927	100.0	+	"1/1/2(Gypsy,LTR,Retrotransposon)"	26 	chrV_tig00000015	2
+11	6	119186	124615	98.84	+	"1/1/2(Gypsy,LTR,Retrotransposon)"	22 	chrVI_tig00004938 reverse_complement	2
+12	6	199272	205232	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	23 	chrVI_tig00004938 reverse_complement	2
+13	7	106570	112480	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	14 	chrMANY_tig00000038 reverse_complement	2
+14	7	212802	219075	100.0	+	"1/1/2(Gypsy,LTR,Retrotransposon)"	15 	chrMANY_tig00000038 reverse_complement	2
+15	8	376746	382704	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	18 	chrVIII_tig00000017 reverse_complement	2
+16	10	406678	412639	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	32 	chrX_tig00001098 reverse_complement	2
+17	12	414716	420628	99.4	+	"1/1/1(Copia,LTR,Retrotransposon)"	28 	chrXII-2_tig00004934	2
+18	15	112119	118079	100.0	+	"1/1/1(Copia,LTR,Retrotransposon)"	37 	chrXV_tig00000007 reverse_complement	2
+19	15	228908	235130		+	"1/1/1(Copia,LTR,Retrotransposon)"	220	chrXV_tig00000007 reverse_complement	2
+20	16	54635	60608	97.41	+	"1/1/2(Gypsy,LTR,Retrotransposon)"	34 	chrXVI-2_tig00000040 reverse_complement	2

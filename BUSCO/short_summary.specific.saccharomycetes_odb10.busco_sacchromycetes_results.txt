@@ -1,0 +1,35 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: saccharomycetes_odb10 (Creation date: 2020-08-05, number of genomes: 76, number of BUSCOs: 2137)
+# Summarized benchmarking in BUSCO notation for file /mnt/data0/projects/YPS1009_Genome_Annotation/busco/YPS1009-contigs.fasta
+# BUSCO was run in mode: euk_genome_aug
+# Gene predictor used: augustus
+
+	***** Results: *****
+
+	C:99.2%[S:97.1%,D:2.1%],F:0.0%,M:0.8%,n:2137	   
+	2119	Complete BUSCOs (C)			   
+	2074	Complete and single-copy BUSCOs (S)	   
+	45	Complete and duplicated BUSCOs (D)	   
+	1	Fragmented BUSCOs (F)			   
+	17	Missing BUSCOs (M)			   
+	2137	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	31	Number of scaffolds
+	31	Number of contigs
+	11999695	Total length
+	0.000%	Percent gaps
+	719 KB	Scaffold N50
+	719 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	makeblastdb: 2.13.0+
+	tblastn: 2.13.0+
+	augustus: 3.5.0
+	gff2gbSmallDNA.pl: None
+	new_species.pl: None
+	etraining: None
+	busco: 5.4.4

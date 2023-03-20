@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Session genome="GCF_000146045.2_R64_genomic.fna" locus="All" version="8">
+<Session genome="YPS1009-contigs.fasta" locus="chrXVI_tig00000013:329551-390358" version="8">
     <Resources>
-        <Resource path="GCF_000146045.2_R64_genomic.gff" type="gff"/>
+        <Resource path="YPS1009_S288C_v5_polished_bom.gff" type="gff"/>
     </Resources>
-    <Panel height="434" name="FeaturePanel" width="1261">
+    <Panel height="462" name="FeaturePanel" width="1119">
         <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="POSITIVE" shouldShowTranslation="false" visible="true"/>
-        <Track attributeKey="GCF_000146045.2_R64_genomic.gff" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;51.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="C:\Users\user\Documents\yps1009_nanopore_genomeSeq\LIFTOFF\IGV\GCF_000146045.2_R64_genomic.gff" name="GCF_000146045.2_R64_genomic.gff" visible="true"/>
+        <Track attributeKey="YPS1009_S288C_v5_polished_bom.gff" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;75.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="C:\Users\user\Documents\yps1009_nanopore_genomeSeq\LIFTOFF\IGV\YPS1009_S288C_v5_polished_bom.gff" name="YPS1009_S288C_v5_polished_bom.gff" visible="true"/>
     </Panel>
-    <PanelLayout dividerFractions="0.01348314606741573"/>
+    <PanelLayout dividerFractions="0.012684989429175475"/>
     <HiddenAttributes>
         <Attribute name="DATA FILE"/>
         <Attribute name="DATA TYPE"/>

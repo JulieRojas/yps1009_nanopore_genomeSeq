@@ -1,2 +1,8 @@
 
 LIFTOFF/TEUltimate_results/TE_LTR.tsv
+LIFTOFF/IGV/RNAseqLeah_sam/*.
+
+LIFTOFF/IGV/RNAseqLeah_sam/1273-sorted.sam
+*.sam
+*.sam
+*.bam
