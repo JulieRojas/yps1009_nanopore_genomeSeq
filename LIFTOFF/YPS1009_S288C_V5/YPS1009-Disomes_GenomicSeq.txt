@@ -1,0 +1,50 @@
+Plate Position	Genomic Library	AGY #	Strain	CEN-proximal cassette?	Cells Collected		Next-Gen Gasch #		Library ng/uL
+A1	1	AGY1596	Euploid wild-type	"Unmarked, newer HygMX-rescued strain"	3/14/2022		Gasch 1212		37
+A2	2	AGY1599	Euploid ssd1-	"Unmarked, newer HygMX-rescued strain"	3/14/2022		Gasch 1213		26
+A3	3	AGY1730	Dis8 wild-type	Yes	3/14/2022		Gasch 1226		10
+A4	4	AGY1704	Dis1 ssd1-	Yes	3/14/2022		Gasch 1215		21
+A5	5	AGY1706	Dis2 wild-type	Yes	3/14/2022		Gasch 1216		7
+A6	6	AGY1708	Dis2 ssd1-	Yes	3/14/2022		Gasch 1217		27
+A7	7	AGY1710	Dis3 wild-type	Yes	3/14/2022		Gasch 1218		27
+A8	8	AGY1712	Dis3 ssd1-	Yes	4/4/2022		Gasch 1219		36
+A9	9	AGY1714	Dis4 wild-type	Yes	3/4/2022		Gasch 1220		59
+A10	10	AGY1716	Dis4 ssd1-/ssd1-	Yes	3/4/2022		Gasch 1221		24
+A11	11	AGY1718	Dis5 wild-type	Yes	3/14/2022		Gasch 1222		27
+A12	12	AGY1720	Dis5 ssd1-	Yes	3/14/2022		Gasch 1223		37
+B1	13	AGY1726	Dis7 wild-type	Yes	3/4/2022		Gasch 1224		19
+B2	14	AGY1728	Dis7 ssd1-	Yes	3/4/2022		Gasch 1225		21
+B3	15	AGY1702	Dis1 wild-type	Yes	3/14/2022		Gasch 1214		24
+B4	16	AGY1732	Dis8 ssd1-	Yes	3/14/2022		Gasch 1227		30
+B5	17	AGY1734	Dis9 wild-type	Yes	3/14/2022		Gasch 1228		42
+B6	18	AGY1736	Dis9 ssd1-	Yes	3/14/2022		Gasch 1229		41
+B7	19	AGY1738	Dis10 wild-type	Unmarked	3/14/2022		Gasch 1230		34
+B8	20	AGY1740	Dis10 ssd1-	Unmarked	3/14/2022		Gasch 1231		28
+B9	21	AGY1742	Dis11 wild-type	Yes	3/14/2022		Gasch 1232		19
+B10	22	AGY1744	Dis11 ssd1-	Yes	3/14/2022		Gasch 1233		33
+B11	23	AGY1750	Dis13 wild-type	Yes	3/4/2022		Gasch 1234		13
+B12	24	AGY1752	Dis13 ssd1-	Yes	3/4/2022		Gasch 1235		36
+C1	25	AGY1754	Dis14 wild-type	Yes	3/14/2022		Gasch 1236		31
+C2	26	AGY1756	Dis14 ssd1-	Yes	3/14/2022		Gasch 1237		51
+C3	27	AGY1758	Dis15 wild-type	Yes	3/4/2022		Gasch 1238		10
+C4	28	AGY1760	Dis15 ssd1-	Yes	3/4/2022		Gasch 1239		23
+C5	29	AGY1762	Dis16 wild-type	Yes	3/4/2022		Gasch 1240		31
+C6	30	AGY1757	Euploid CEN15 wild-type	Yes	3/4/2022		Gasch 1241		11
+C7	31	AGY1835	Dis4 wild-type	Unmarked	3/14/2022		Gasch 1242		71
+C8	32	AGY1836	Dis4 ssd1-/ssd1-	Unmarked	3/14/2022		Gasch 1243		55
+C9	33	AGY1837	Dis13 wild-type	Unmarked	3/14/2022		Gasch 1244		13
+D1	34	AGY1838	Dis13 ssd1-	Unmarked	3/14/2022		Gasch 1245		44
+D2	35	AGY1839	Dis15 wild-type	Unmarked	3/14/2022		Gasch 1246		17
+D3	36	AGY1840	Dis15 ssd1-	Unmarked	3/14/2022		Gasch 1247		27
+D4	37	AGY1596	Euploid wild-type	"Unmarked, newer HygMX-rescued strain"	4/4/2022		Gasch 1248		27
+D5	38	AGY731	Euploid wild-type	"Unmarked, original ho::HygMX strain"	4/4/2022		Gasch 1249		28
+D6	39	AGY735	Dis12 wild-type	"Unmarked, original ho::HygMX strain"	4/4/2022		Gasch 1250		13
+D7	40	AGY1444	Euploid ssd1-	"Unmarked, original ho::HygMX strain"	4/4/2022		Gasch 1251		36
+D8	41	AGY1746	Dis12 wild-type	Yes	4/4/2022		Gasch 1252		23
+D9	42		Dis12 wild-type rDNA hemizygous clone #3	n/a	4/4/2022		Gasch 1253		48
+E1	43	AGY1445	Dis12 ssd1-	"Unmarked, original ho::HygMX strain"	4/14/2022		Gasch 1254		
+E2	44	AGY1843	Dis7 wild-type	Unmarked	4/14/2022		Gasch 1255		
+E3	45	AGY1844	Dis7 ssd1-	Unmarked	4/14/2022		Gasch 1256		
+E4	46	AGY1845	Dis14 wild-type	Unmarked	4/14/2022		Gasch 1257		
+E5	47	AGY1846	Dis14 ssd1-	Unmarked	4/14/2022		Gasch 1258		
+E6	48	AGY1847	Dis16 wild-type	Unmarked	4/14/2022		Gasch 1259		
+E7	49	AGY1848	Dis16 ssd1-	Unmarked	4/14/2022		Gasch 1260		
